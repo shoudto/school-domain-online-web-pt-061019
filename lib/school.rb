@@ -21,6 +21,6 @@ class School
   end
 
   def sort
-    binding.pry   
+    @roster.each do |grade, students|
   end
 end
