@@ -10,10 +10,10 @@ class School
   end
 
   def add_student(student, grade)
-    
+
   end
 
-  def grade 
+  def grade
 
   end 
 end
