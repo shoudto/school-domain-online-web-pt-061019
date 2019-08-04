@@ -15,5 +15,9 @@ class School
 
   def grade
 
+  end
+
+  def sort
+
   end 
 end
