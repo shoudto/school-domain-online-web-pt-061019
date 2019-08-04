@@ -10,7 +10,7 @@ class School
   end
 
   def add_student(student, grade)
-
+    @roster[grade]
   end
 
   def grade
@@ -19,5 +19,5 @@ class School
 
   def sort
 
-  end 
+  end
 end
