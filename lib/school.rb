@@ -12,4 +12,8 @@ class School
   def add_student(student, grade)
     
   end
+
+  def grade 
+
+  end 
 end
